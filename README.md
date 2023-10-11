@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nowiirii
+- 👋 Hi, I’m @Nowiirii, 21 years old
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning Java, Python, C++, and HTML
 - 💞️ I’m looking to collaborate with my groupmates
